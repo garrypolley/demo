@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.example
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle
+features: [annotation-api, app-name, aws-lambda, gradle, jdbc-hikari, jib, jooq, junit, kafka, kafka-streams, kotlin, kotlin-application, kotlin-extension-functions, management, micrometer, micrometer-datadog, mockito, postgres, rabbitmq, readme, security-annotations, security-jwt, shade, slf4j-simple, testcontainers, yaml]
